@@ -1,0 +1,10 @@
+
+*🚫 .gitignore — Fichiers à ignorer par Git*
+
+
+*.exe
+*.o
+*.obj
+*.out
+*.log
+.DS_Store
